@@ -26,9 +26,11 @@ If you want to create more buttons, copy the line of code
 and change the link, the number of id to 6,7,8 ... and the name.
 
 Now in CSS, copy  
-    #button1 {
-        background-color: black;
-        border: 3px solid white;
-    color: white;
-    }  
+```css
+#button1 {
+    background-color: black;
+    border: 3px solid white;
+color: white;
+}
+```  
 under #button5 and change the "1" to the number of the button you want to change.
