@@ -21,12 +21,12 @@ Now, to create buttons, replace the default button link with your choice, and th
 
 Your buttons have already been created, to change appearance, open the "style.css", look for the #button0 and change the color options of the background, border and color (font color).
 
-If you want to create more buttons, copy the line of code <code><a href="Button 1 Link Here"><button id = "button1">Button 1 Name Here</button></a></code> and change the link, the number of id to 6,7,8 ... and the name.
+If you want to create more buttons, copy the line of code `<a href="Button 1 Link Here"><button id = "button1">Button 1 Name Here</button></a>` and change the link, the number of id to 6,7,8 ... and the name.
 
 Now in CSS, copy  
-#button1 {
-     background-color: black;
-     border: 3px solid white;
-     color: white;
-}  
+    #button1 {
+        background-color: black;
+        border: 3px solid white;
+    color: white;
+    }  
 under #button5 and change the "1" to the number of the button you want to change.
