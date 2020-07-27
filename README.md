@@ -1,10 +1,14 @@
 # favpage
 ## Favorite page to save space in the favbar
 
-## First things first: download this repository
 ### How to customize your Favpage:
 
-First: choose a Tab Name and change it
+First things first: download this repository
 
-Second: Choose an image to be the Favicon (preferably square or circle), and use the website [favicon-generator.org] (https://www.favicon-generator.org/) to convert it. Don't change anything, just upload the image and click "create".  
-Agora faça o download, extraia o zip e mova os três arquivos "favicon-00x00.png" para a pasta do seu site.
+Then, choose a Tab Name and change it
+
+Now, Choose an image to be the Favicon (preferably square or circle), and use the website favicon-generator.org (https://www.favicon-generator.org/) to convert it.
+
+Don't change anything, just upload the image and click "create".
+
+Now download, extract the zip and move the three files "favicon-00x00.png" to your website folder.
